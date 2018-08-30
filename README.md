@@ -1,5 +1,7 @@
 # Push Prometheus Pushgateway container into OCP
 
+![gluster-gauges](https://github.com/ikke-t/gluster-pv-monitor-hack/raw/master/gluster-grafana.jpg)
+
 In case you can connect to docker.io from OCP, you can also use the import command directly. Make sure the image get's to corresponding namespace which you have in DC below.
 
 ```sh
